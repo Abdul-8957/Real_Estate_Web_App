@@ -110,7 +110,7 @@
                             <h6>Home</h6>
                             <span>
                                 <asp:Label ID="lblHome" runat="server"></asp:Label>
-                                Properties</span>
+                                Propertie's</span>
                         </div>
                     </a>
                 </div>
